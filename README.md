@@ -1,5 +1,3 @@
-Sure! Below is a README file that you can use to describe your project and code. This README includes sections for project description, installation, usage, and acknowledgments.
-
 ```markdown
 # Hotel Booking Analysis
 
