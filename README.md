@@ -1,4 +1,3 @@
-```markdown
 # Hotel Booking Analysis
 
 This project analyzes a hotel booking dataset to uncover important factors that govern the bookings. The analysis helps to explore questions such as the best time of year to book a hotel room, the optimal length of stay to get the best daily rate, and predicting whether a hotel is likely to receive a disproportionately high number of special requests.
